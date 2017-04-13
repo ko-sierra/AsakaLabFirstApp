@@ -1,0 +1,2 @@
+# AsakaLabFirstApp
+Pedometerによる万歩計アプリケーション
